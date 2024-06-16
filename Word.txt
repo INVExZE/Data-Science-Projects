@@ -1,0 +1,23 @@
+Hello, Heres Sanjay
+This is a basic test program to test the word counter in the file using python.
+
+Example to check Word Counter
+Apple 
+Apple
+
+Banana
+
+Guava
+
+Mango 
+Mango
+
+Lichi
+Lichi
+Lichi
+Lichi
+
+Pears
+Pears
+Pears
+
